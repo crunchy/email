@@ -1,4 +1,4 @@
-email
+Email
 =====
 
-email templates
+Email templates used in third-party systems like Act-On.
